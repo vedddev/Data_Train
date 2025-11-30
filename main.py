@@ -8,5 +8,7 @@ df=pd.read_csv(path)
 print(df.isnull().sum())
 print(df.head(10))
 print(df)
+print(df.describe())
+
 
 
