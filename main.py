@@ -9,6 +9,8 @@ print(df.isnull().sum())
 print(df.head(10))
 print(df)
 print(df.describe())
+print(df.column())
+
 
 
 
