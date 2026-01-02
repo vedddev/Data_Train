@@ -8,6 +8,8 @@ print(df.isnull().sum())
 print(df.head(10))
 print(df.describe())
 print(df.column())
+print(df.tail(5))
+
 
 
 
